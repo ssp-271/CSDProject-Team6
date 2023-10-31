@@ -2,25 +2,30 @@
 #Integrated Student Performance Dashboard using Tableau**
 
 ##Overview
+
 This repository contains the source code and resources for a web-based student performance dashboard designed to enhance educational excellence by providing data-driven insights for educators, and students. The dashboard integrates web development, data visualization using Tableau.
 
 ##Features
+
 1.**Data Integration:** Consolidate student data, academic records, attendance, and other related data.
 2.**Data Visualization:** Utilize Tableau for visually interactive dashboards, making data insights more accessible.
 3.**User-Friendly Interface:** Create an intuitive web-based interface for easy navigation and interaction.
 
 ##Getting Started
+
 1. Clone this repository to your local machine.
 2. Review the code and folder structure to understand the project components.
 3. Set up the necessary dependencies (e.g., web development tools, Tableau).
 4. Import your specific dataset for analysis.
    
 ##Usage
+
 1. Run the web application to access the dashboard.
 2. Explore the different sections, visualizations, and insights provided.
 3. Customize the dashboard for your specific educational institution's needs.
 
-##Data Sources
+##Data Source
+
 1.Include information about the datasets used, such as their origin and structure.
 2.Specify any data preprocessing steps performed.
 
