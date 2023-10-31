@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', 'sans-serif';
+    box-sizing: border-box;
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+
+}
+
+
+nav .logo{
+    width: 180px;
+    cursor: pointer;
+    margin-left: -70px;
+}
+nav ul{
+    flex:1;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #000000;
+}
+
+button{
+    background: #efefef;
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+
+}
+
+input[type="text"], select {
+    border-radius: 25px;
+    padding: 8px 15px;
+    margin: 5px;
+    border: none;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+  }
+
+input[type="number"] {
+    border-radius: 25px;
+    padding: 8px 15px;
+    margin: 5px;
+    border: none;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  td, th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+
+  body {
+    background-color: #716b6b58;
+  }
+  
+  
+
+
+
+* {
+    /* Change your font family */
+    font-family: sans-serif;
+}
+
+.myTable {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 1000px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.myTable thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.myTable th,
+.myTable td {
+    padding: 12px 15px;
+}
+
+.myTable tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.myTable tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.myTable tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.myTable tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
