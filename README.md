@@ -1,5 +1,5 @@
 # CSD Project Team-6
-#Integrated Student Performance Dashboard using Tableau**
+#Integrated Student Performance Dashboard using Tableau
 
 ##Overview
 
