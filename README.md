@@ -25,12 +25,12 @@ This repository contains the source code and resources for a web-based student p
 1.Include information about the datasets used, such as their origin and structure.
 2.Specify any data preprocessing steps performed.
 
-##Sign Up Page
+## Sign Up Page
 ![Screenshot (186)](https://github.com/ssp-271/CSDProject-Team6/assets/91901616/ed2d9778-ab20-45af-856e-1a0ae8b78630)
 
-##Login Page
+## Login Page
 ![Screenshot (187)](https://github.com/ssp-271/CSDProject-Team6/assets/91901616/b7dcda58-e7af-4222-8d1c-a8790b704e86)
 
-##Dashboard/Home Page
+## Dashboard/Home Page
 ![Screenshot (188)](https://github.com/ssp-271/CSDProject-Team6/assets/91901616/c794555b-b059-45d5-9a49-2643062ab8bb)
 
