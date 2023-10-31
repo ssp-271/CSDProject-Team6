@@ -22,10 +22,10 @@ This repository contains the source code and resources for a web-based student p
 3. Customize the dashboard for your specific educational institution's needs.
 
 ## Data Source
-1.Include information about the datasets used, such as their origin and structure.
-2.Specify any data preprocessing steps performed.
+1. Include information about the datasets used, such as their origin and structure.
+2. Specify any data preprocessing steps performed.
 
-## Sign Up Page
+## SignUp Page
 ![Screenshot (186)](https://github.com/ssp-271/CSDProject-Team6/assets/91901616/ed2d9778-ab20-45af-856e-1a0ae8b78630)
 
 ## Login Page
