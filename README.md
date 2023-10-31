@@ -1,5 +1,5 @@
 # CSD Project Team-6
-Integrated Student Performance Dashboard using Tableau
+**Integrated Student Performance Dashboard using Tableau**
 
 **Overview**
 This repository contains the source code and resources for a web-based student performance dashboard designed to enhance educational excellence by providing data-driven insights for educators, and students. The dashboard integrates web development, data visualization using Tableau.
